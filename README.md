@@ -1,2 +1,2 @@
 # Jornada_Python_Hastag_Insights
-Jornada Hastag de Análise de dados 2025
+Jornada Python Hastag Análise de Dados, 2025
